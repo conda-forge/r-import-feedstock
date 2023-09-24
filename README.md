@@ -3,6 +3,7 @@ About r-import-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-import-feedstock/blob/main/LICENSE.txt)
 
+
 About r-import
 --------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/smbache/import
 Package license: MIT
 
 Summary: This is an alternative mechanism for importing objects from packages. The syntax allows for importing multiple objects from a package with a single command in an expressive way. The import package bridges some of the gap between using library (or require) and direct (single-object) imports. Furthermore the imported objects are not placed in the current environment. It is also possible to import objects from stand-alone .R files. For more information, refer to the package vignette.
+
 About r-import
 --------------
 
